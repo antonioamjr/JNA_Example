@@ -14,7 +14,7 @@ Step 3 (Run J, run):
   * java -cp .:jna.4.2.1.jar JavaClass
 
 PS: 
-  * Task 1: Include `func3` to java's main function.
+  * Task 1: Include `func2` to java's main function.
   * Task 2: Code your own function to `example.c` and make use of it.
 
 Best regards,
